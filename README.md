@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm skaran121</h1>
-<h3 align="center">Data Science Enthusiast</h3>
+<h3 align="center">Web Devloper Enthusiast</h3>
 
 
 
