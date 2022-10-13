@@ -3,9 +3,6 @@
 
 
 
-- 📫 How to reach me **karansinghgusain1@gmail.com**
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
